@@ -2,7 +2,7 @@
   "name": "react-invoice-generator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://gaurav-nwh.github.io/Invoice_Generator",
+  "homepage": "http://gaurav-nwh.github.io/Invoice.Generator",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
